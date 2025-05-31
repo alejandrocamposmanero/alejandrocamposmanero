@@ -34,6 +34,6 @@ Currently I don't have any backend project but I'm planning in starting one this
 Feel free to reach out if you'd like to collaborate or chat about tech, games, or anything in between.
 
 - Email: alejandrocamposmanero@gmail.com 
-- LinkedIn: linkedin.com/in/alejandrocamposmanero  
+- LinkedIn: https://www.linkedin.com/in/alejandrocamposmanero  
 
 Thanks for stopping by! 🚀
